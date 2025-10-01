@@ -1,0 +1,1 @@
+Aqui seria o projeto,código, mas como é só para entender o versionamento vai um md mesmo kkk
